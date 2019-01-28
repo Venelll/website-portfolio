@@ -287,3 +287,11 @@ svg {
 .nav-button:hover  {
 	background-color: transparent;
 }
+
+.twitter {
+	width: 67px;
+	height: 67px;
+}
+.footer-hyper {
+	text-decoration: none;
+}
